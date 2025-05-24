@@ -7,7 +7,7 @@ int main() {
     char userPass[50];
 
     printf("Enter the password:\n");
-    gets(userPass);
+    //gets(userPass);
 
     if(strncmp(userPass, PASSWORD, 9) == 0) {
         printf("PASSWORD VERIFIED\n");
