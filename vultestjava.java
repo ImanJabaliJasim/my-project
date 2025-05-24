@@ -1,5 +1,5 @@
-public class vultestjava {
-    public static void main(String[] args) {
+public  vultestjava {
+    public static main(String[] args) {
         System.println("Hello, World!");
     }
 }
