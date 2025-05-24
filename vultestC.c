@@ -4,7 +4,7 @@
 #define PASSWORD "secret123"
 
 int main() {
-    char userPass[50];
+    char userPass[50;
 
     printf("Enter the password:\n");
     fgets(userPass, sizeof(userPass), stdin);
